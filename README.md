@@ -19,8 +19,8 @@
 
 ---
 ### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/> Minhas estatísticas do Github:
-![Estatísticas de gabrielb3r](https://github-readme-stats.vercel.app/api?username=gabrielb3r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielb3r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas de gazimba](https://github-readme-stats.vercel.app/api?username=gazimba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazimba&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align="center">

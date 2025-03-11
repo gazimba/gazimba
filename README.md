@@ -8,25 +8,22 @@
 
 
 
-### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/><span justify="center">Sobre mim:</span>
+### <div justify="center"><img src="https://cdn3.emoji.gg/emojis/9392-arrow.gif" alt="arrow" width="55" height="55"/>Sobre mim:</div>
 
-- :man_student: Atualmente sou aluno do curso de Sistemas de Informação 
-- :construction_worker_man: Trabalho em uma empresa onde faço manutenção e atualizações em um sistema administrativo
-- :mage_man: Futuro desenvovedor FullStack
-- :rocket: Estudando ``` .JAVASCRIPT``` 
+- :man_student: Cursando de Sistemas de Informação 
+- :rocket: Estudando ``` .REACTJS``` ``` .NODE``` 
 - :video_game: Gamer nas horas vagas
 
 
 ---
-### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/> Minhas estatísticas do Github:
+### <img src="https://cdn3.emoji.gg/emojis/9392-arrow.gif" alt="arrow" width="55" height="55"/> Minhas estatísticas do Github:
+
 ![Estatísticas de gazimba](https://github-readme-stats.vercel.app/api?username=gazimba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazimba&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <p align="center">
-      <a href="https://twitter.com/devb3r" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="33" width="33" /></a>&nbsp;
-      <a href="https://linkedin.com/in/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="apoorvtyagi" height="33" width="33" /></a>&nbsp;
-      
+      <a href="https://linkedin.com/in/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="apoorvtyagi" height="33" width="33" /></a>&nbsp;      
 </p>
 
-<p align="center"> <strong>Até mais, e obrigado pelos peixes!</strong> </p>
+<p align="center"> <strong>Obrigado pela visita!</strong> </p>

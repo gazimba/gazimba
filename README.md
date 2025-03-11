@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/>Sobre mim:
+### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/><span justify-item="center">Sobre mim:</span>
 
 - :man_student: Atualmente sou aluno do curso de Sistemas de Informação 
 - :construction_worker_man: Trabalho em uma empresa onde faço manutenção e atualizações em um sistema administrativo

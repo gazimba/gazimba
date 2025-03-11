@@ -1,5 +1,4 @@
-# <img src="https://lh3.googleusercontent.com/Lb6gPaMRJPtgng26fVcqSJZEO-78dyMvAOa9nfKXxU2dpBMx5_lW9gHRT7eANzmF8JEZg_RoAnWrbh14OUAvzcyFqsaDEvvpC0T0rQ=w600" width="29px">
-
+# <img src="https://lh3.googleusercontent.com/Lb6gPaMRJPtgng26fVcqSJZEO-78dyMvAOa9nfKXxU2dpBMx5_lW9gHRT7eANzmF8JEZg_RoAnWrbh14OUAvzcyFqsaDEvvpC0T0rQ=w600" width="29px"> Olá!
 
 
 <div align="center">
@@ -18,10 +17,11 @@
 - :video_game: Gamer nas horas vagas
 
 ---
-### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/> Minhas estatísticas do Github:
-![Estatísticas de gazimba](https://github-readme-stats.vercel.app/api?username=gazimba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazimba&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+      ### <img src="https://cdn3.emoji.gg/emojis/80808-arrow.gif" alt="arrow" width="55" height="55"/> Minhas estatísticas do Github:
+      ![Estatísticas de gazimba](https://github-readme-stats.vercel.app/api?username=gazimba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazimba&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 <p align="center">
       <a href="https://twitter.com/devb3r" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="33" width="33" /></a>&nbsp;
